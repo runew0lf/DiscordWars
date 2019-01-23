@@ -5,4 +5,4 @@ Players will contribute towards a servers resources which then can be used to at
 
 (think clash of clans type game)
 
-Setting: Undecided - Past or Future
+Setting: Past

@@ -1,0 +1,21 @@
+{
+    "players": {
+        "87793066227822592": {
+            "gathering": null,
+            "resources": {
+                "Coal": 0,
+                "Food": 0,
+                "Gems": 0,
+                "Gold": 0,
+                "Grain": 0,
+                "Herbs": 0,
+                "Iron": 0,
+                "Livestock": 0,
+                "Stone": 0,
+                "Water": 0,
+                "Wood": 0,
+                "Workers": 0
+            }
+        }
+    }
+}

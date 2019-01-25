@@ -1,0 +1,20 @@
+{
+    "servers": {
+        "469882233751076874": {
+            "resources": {
+                "Coal": 0,
+                "Food": 3,
+                "Gems": 0,
+                "Gold": 0,
+                "Grain": 0,
+                "Herbs": 0,
+                "Iron": 0,
+                "Livestock": 0,
+                "Stone": 1,
+                "Water": 1,
+                "Wood": 0,
+                "Workers": 0
+            }
+        }
+    }
+}
